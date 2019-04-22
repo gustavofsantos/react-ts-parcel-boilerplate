@@ -1,0 +1,7 @@
+/dist
+.cache
+
+/node_modules
+
+# it's a boilerplate, not needs the lock file
+yarn.lock
